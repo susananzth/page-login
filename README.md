@@ -32,6 +32,8 @@ Paso a paso de lo que debes ejecutar para tener el proyecto ejecutandose
 Las herramientas que utilice para crear este proyecto
 * Toolkit de diseño [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 * Librería de animación [Aos](https://michalsnik.github.io/aos/).
+* Vector icons [Font Awesome](https://fontawesome.com/icons).
+* Librería de JavaScript [JQuery](https://code.jquery.com/).
 
 ## Autores ✒️
 
